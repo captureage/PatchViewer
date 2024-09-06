@@ -12,6 +12,10 @@ Screenshot:
 
 ## Release History
 
+**v0.6.1-ca-0.1**
+
+- Add support for P4 files and add lazy loading for displaying diffs (handles large diffs without running out of memory).
+
 **v0.6.1**
 
 - Fixed a regression bug when parsing diff with only 1 line changed.
