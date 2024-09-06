@@ -2,7 +2,7 @@
 
 Single file, browser based side-by-side patch viewer.
 
-Try it online: https://captureage.github.io/PatchViewer/PatchViewer.html
+Try it online [here](https://captureage.github.io/PatchViewer/PatchViewer.html)
 
 Just save the `PatchViewer.html` to use it offline. No any other dependencies or internet access needed.
 
